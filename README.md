@@ -7,11 +7,5 @@
 
 -The datasets are merged and graphed to investigate climate trends and predictors in the Tonto National Forest region of Payson, AZ located in the Mogollon Rim.
 
--Machine Learning/Data Science pacakges used: 
-Pandas
-Numpy
-Matplotlib
-seaborn
-requests
+-Machine Learning/Data Science pacakges used: Pandas, Numpy, Matplotlib, Seaborn
 
-Visualizations and graphs provided by MatPlotlib and Seaborn. 
